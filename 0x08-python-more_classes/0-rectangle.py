@@ -3,5 +3,4 @@
 
 class Rectangle:
     """Creates a class"""
-    def __init__(self):
         pass
