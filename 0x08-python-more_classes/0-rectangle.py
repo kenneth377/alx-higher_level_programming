@@ -3,4 +3,4 @@
 
 class Rectangle:
     """Creates a class"""
-        pass
+    pass
